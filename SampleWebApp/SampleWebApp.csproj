@@ -321,6 +321,7 @@
     <None Include="Properties\PublishProfiles\samplemvcwebapp - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\samplemvcwebapp - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\samplemvcwebapp.net - WebWiz.pubxml" />
+    <None Include="Properties\PublishProfiles\Test.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
